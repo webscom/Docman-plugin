@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<extension version="3.0" type="plugin" group="docman">
+
+    <name>DOCman History  Plugin</name>
+
+    <author>Ludovic BODA</author>
+
+    <creationDate>Janvier 2019</creationDate>
+
+    <version>1.0.0</version>
+
+    <description>Historise dans une table temporaire totues les actions de création et/ou modifications de documents</description>
+
+    <files>
+
+        <filename plugin="history">history.php</filename>
+
+    </files>
+
+</extension>
